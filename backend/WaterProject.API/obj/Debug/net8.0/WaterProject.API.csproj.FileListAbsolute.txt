@@ -65,3 +65,5 @@
 /Users/Zac/Documents/IS 413/WaterProject/backend/WaterProject.API/obj/Debug/net8.0/WaterProject.API.pdb
 /Users/Zac/Documents/IS 413/WaterProject/backend/WaterProject.API/obj/Debug/net8.0/WaterProject.API.genruntimeconfig.cache
 /Users/Zac/Documents/IS 413/WaterProject/backend/WaterProject.API/obj/Debug/net8.0/ref/WaterProject.API.dll
+/Users/Zac/Documents/IS 413/WaterProject/backend/WaterProject.API/obj/Debug/net8.0/WaterProject.API.sourcelink.json
+/Users/Zac/Documents/IS 413/WaterProject/backend/WaterProject.API/bin/Debug/net8.0/WaterProject.sqlite

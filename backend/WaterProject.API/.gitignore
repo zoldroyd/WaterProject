@@ -1,6 +1,13 @@
-namespace WaterProject.API;
+bin/
+obj/
 
-public class _gitignore
-{
-    
-}
+.vs/
+*.suo
+*.user
+*.sln.docstates
+
+.idea/
+*.DotSettings.user
+
+*.log
+*.tlog
