@@ -17,7 +17,6 @@ builder.Services.AddCors(options =>
     options.AddPolicy("AllowReactAppBlah",
         policy => {
             policy.AllowAnyOrigin()
-                .AllowCredentials()
                 .AllowAnyMethod()
                 .AllowAnyHeader();
     }));

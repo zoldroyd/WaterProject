@@ -6,7 +6,7 @@ interface FetchProjectsResponse {
 }
 
 const API_URL =
-  'https://localhost:https://waterproject-hilton-backend-cbaggtgmadarfrav.eastus-01.azurewebsites.net/Water';
+  'https://waterproject-hilton-backend-cbaggtgmadarfrav.eastus-01.azurewebsites.net/Water';
 
 export const fetchProjects = async (
   pageSize: number,
